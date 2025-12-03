@@ -1,0 +1,302 @@
+{
+  "man": {
+    "name": "man",
+    "type": 1,
+    "average_score": 0.8799999833106995
+  },
+  "fix": {
+    "name": "fix",
+    "type": 7,
+    "average_score": 0.4400000095367432
+  },
+  "all": {
+    "name": "all",
+    "type": 7,
+    "average_score": -0.27500000409781933
+  },
+  "video": {
+    "name": "video",
+    "type": 5,
+    "average_score": 0.29999999169792446
+  },
+  "settings": {
+    "name": "settings",
+    "type": 7,
+    "average_score": -0.2500000111758709
+  },
+  "television off": {
+    "name": "television off",
+    "type": 4,
+    "average_score": 0.699999988079071
+  },
+  "hope": {
+    "name": "hope",
+    "type": 7,
+    "average_score": 0.699999988079071
+  },
+  "perfection": {
+    "name": "perfection",
+    "type": 7,
+    "average_score": 0.8999999761581421
+  },
+  "YouTube": {
+    "name": "YouTube",
+    "type": 7,
+    "average_score": 0.03999999538064003
+  },
+  "setting": {
+    "name": "setting",
+    "type": 7,
+    "average_score": -0.05000000074505806
+  },
+  "television": {
+    "name": "television",
+    "type": 7,
+    "average_score": 0.2500000027939677
+  },
+  "phone": {
+    "name": "phone",
+    "type": 7,
+    "average_score": -0.30000001192092896
+  },
+  "content": {
+    "name": "content",
+    "type": 5,
+    "average_score": -0.10000000149011612
+  },
+  "screen": {
+    "name": "screen",
+    "type": 7,
+    "average_score": 0.3200000047683716
+  },
+  "post": {
+    "name": "post",
+    "type": 7,
+    "average_score": 0.8999999761581421
+  },
+  "app": {
+    "name": "app",
+    "type": 6,
+    "average_score": 0.033333333830038704
+  },
+  "job": {
+    "name": "job",
+    "type": 7,
+    "average_score": 0.8999999761581421
+  },
+  "genius": {
+    "name": "genius",
+    "type": 7,
+    "average_score": 0.8999999761581421
+  },
+  "legend": {
+    "name": "legend",
+    "type": 7,
+    "average_score": 0.20000000298023224
+  },
+  "head": {
+    "name": "head",
+    "type": 7,
+    "average_score": -0.5
+  },
+  "glitch": {
+    "name": "glitch",
+    "type": 7,
+    "average_score": -0.10000000149011612
+  },
+  "bug": {
+    "name": "bug",
+    "type": 7,
+    "average_score": -0.20000000298023224
+  },
+  "problem": {
+    "name": "problem",
+    "type": 7,
+    "average_score": 0.13333333532015482
+  },
+  "instruction": {
+    "name": "instruction",
+    "type": 7,
+    "average_score": 0.10000000149011612
+  },
+  "knowledge": {
+    "name": "knowledge",
+    "type": 7,
+    "average_score": 0.5
+  },
+  "proble": {
+    "name": "proble",
+    "type": 7,
+    "average_score": 0.5
+  },
+  "reset": {
+    "name": "reset",
+    "type": 7,
+    "average_score": 0.10000000149011612
+  },
+  "power button": {
+    "name": "power button",
+    "type": 7,
+    "average_score": 0.20000000298023224
+  },
+  "work": {
+    "name": "work",
+    "type": 7,
+    "average_score": -0.20000000298023224
+  },
+  "cheers": {
+    "name": "cheers",
+    "type": 7,
+    "average_score": 0.800000011920929
+  },
+  "xbox": {
+    "name": "xbox",
+    "type": 7,
+    "average_score": 0.6000000238418579
+  },
+  "cache": {
+    "name": "cache",
+    "type": 7,
+    "average_score": -0.10000000149011612
+  },
+  "brother": {
+    "name": "brother",
+    "type": 1,
+    "average_score": 0.8999999761581421
+  },
+  "bro": {
+    "name": "bro",
+    "type": 7,
+    "average_score": 0.6599999904632569
+  },
+  "girlfriend": {
+    "name": "girlfriend",
+    "type": 1,
+    "average_score": 0.800000011920929
+  },
+  "help": {
+    "name": "help",
+    "type": 7,
+    "average_score": 0.8999999761581421
+  },
+  "set": {
+    "name": "set",
+    "type": 7,
+    "average_score": 0.10000000149011612
+  },
+  "television problems": {
+    "name": "television problems",
+    "type": 7,
+    "average_score": 0.10000000149011612
+  },
+  "god technology": {
+    "name": "god technology",
+    "type": 7,
+    "average_score": 0.10000000149011612
+  },
+  "launch application": {
+    "name": "launch application",
+    "type": 7,
+    "average_score": 0.10000000149011612
+  },
+  "force stop": {
+    "name": "force stop",
+    "type": 7,
+    "average_score": 0.10000000149011612
+  },
+  "course": {
+    "name": "course",
+    "type": 7,
+    "average_score": -0.20000000298023224
+  },
+  "mother fucker": {
+    "name": "mother fucker",
+    "type": 7,
+    "average_score": -0.10000000149011612
+  },
+  "treat": {
+    "name": "treat",
+    "type": 6,
+    "average_score": 0.800000011920929
+  },
+  "unplugging": {
+    "name": "unplugging",
+    "type": 7,
+    "average_score": -0.4000000059604645
+  },
+  "god": {
+    "name": "god",
+    "type": 1,
+    "average_score": 0.800000011920929
+  },
+  "put": {
+    "name": "put",
+    "type": 7,
+    "average_score": 0.10000000149011612
+  },
+  "brotha": {
+    "name": "brotha",
+    "type": 7,
+    "average_score": 0.8999999761581421
+  },
+  "boston": {
+    "name": "boston",
+    "type": 2,
+    "average_score": 0.8999999761581421
+  },
+  "issue": {
+    "name": "issue",
+    "type": 7,
+    "average_score": 0.4000000059604645
+  },
+  "dream": {
+    "name": "dream",
+    "type": 7,
+    "average_score": 0.4000000059604645
+  },
+  "pieces": {
+    "name": "pieces",
+    "type": 7,
+    "average_score": -0.20000000298023224
+  },
+  "lad": {
+    "name": "lad",
+    "type": 1,
+    "average_score": 0.8999999761581421
+  },
+  "environment": {
+    "name": "environment",
+    "type": 7,
+    "average_score": 0.6000000238418579
+  },
+  "apps": {
+    "name": "apps",
+    "type": 6,
+    "average_score": -0.30000001192092896
+  },
+  "televisions": {
+    "name": "televisions",
+    "type": 6,
+    "average_score": -0.4000000059604645
+  },
+  "android": {
+    "name": "android",
+    "type": 7,
+    "average_score": -0.4000000059604645
+  },
+  "lot": {
+    "name": "lot",
+    "type": 7,
+    "average_score": 0.800000011920929
+  },
+  "ton": {
+    "name": "ton",
+    "type": 7,
+    "average_score": 0.800000011920929
+  },
+  "monsieur": {
+    "name": "monsieur",
+    "type": 7,
+    "average_score": 0.10000000149011612
+  }
+}

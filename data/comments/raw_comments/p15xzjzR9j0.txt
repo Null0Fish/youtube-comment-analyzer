@@ -1,0 +1,882 @@
+Start a high paying tech career making $60k+/year with NO DEBT: <a href="https://coursecareers.com/a/techwithtim">https://coursecareers.com/a/techwithtim</a>
+Thanks I am a teen and I am interested in learning python but just too bored read all the stuffs internet and you just gave me what I need thanks
+You missed Exception handling, Tim.
+hello everybody and welcome back to the YouTube video, in this video 💀 💀 💀
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=00m00s">00:00</a> Learn key skills to master Python programming<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=02m12s">02:12</a> Learn Python syntax, data structures, and functions.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=04m21s">04:21</a> Learn object-oriented programming and data structures.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=06m19s">06:19</a> Understanding key Python topics is crucial to being a good programmer.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=08m13s">08:13</a> Learn Inheritance, Advanced Class Behavior, Python Package Manager (PIP), Advanced Python Environments, and Asynchronous Programming<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=10m14s">10:14</a> Learn advanced Python topics<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=12m14s">12:14</a> Learn Python from Basic to Advance<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=14m08s">14:08</a> To become a Python expert or master, focus on a specific area and learn about modules and tools to apply theoretical knowledge.<br>Crafted by Merlin AI.
+THANK YOU
+cool video)
+Excellent content
+Thanks buddy 🎉❤
+Geez man, you saved me lol, my brain is fried from reading and taking notes on Python documentation. This video definitely helps me reinforce what I&#39;ve learned so far. What a guy you are.
+Thank youu very much for this video, it was very beneficial.
+I like this guy he is like my professor
+algo
+actually the language is the #1 option today in test automation development for both UI and API automation frameworks. <br>is it still popular in web dev? can i dive deep into it with web dev or is i not worth it for development, although i heard it is more enjoyable
+🎯 Key Takeaways for quick navigation:<br><br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=00m00s">00:00</a> Az előadó a Python programozási nyelvben való mesterré váláshoz négy fő kategóriát határoz meg: alap, középhaladó, haladó és szakértő/mester szint.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=01m37s">01:37</a> Az alapok között szerepelnek a változók, feltételek, operátorok, vezérlési szerkezetek és alapvető adatszerkezetek megértése.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=03m36s">03:36</a> Fontos megérteni a módosítható és nem módosítható adattípusok különbségét.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=04m36s">04:36</a> Ismerkedj meg az I/O műveletekkel, például fájl olvasás és írás, CSV fájlok kezelése.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=05m37s">05:37</a> A középhaladó szinten érdemes megérteni az objektumorientált programozást, adatszerkezeteket, listák, halmazok és szótárak kezelését.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=06m36s">06:36</a> Tanulj meg list comprehension és lambda függvényeket használni, valamint a Python csomagkezelő rendszert (PIP).<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=07m36s">07:36</a> Ismerd meg a gyűjtemények modult, a csillagjel és dupla csillagjel paramétereket, öröklődést és objektumorientált elveket.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=10m34s">10:34</a> Az előrehaladott szinten tanulj meg az aszinkron programozásról, dekorátorokról, generátorokról és kontextuskezelőkről.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=12m34s">12:34</a> Az alkalmazottak szintjén kezdd el alkalmazni a Python tudásodat valós projektekben, például webfejlesztés, gépi tanulás, adat tudomány vagy egyéb területeken.<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=15m02s">15:02</a> A szakértő/mester szinten már valószínűleg szűkíteni kell a fókuszt egy adott területre vagy feladatra, például gépi tanulás, webfejlesztés vagy adat tudomány.<br><br>Made with HARPA AI
+You are the best bro
+❤
+Great Job
+Very informative! Thank you so much for mentioning the advanced part as well really helped me out👏
+i seee thnk u si much tim, it seems i was getting ahead of myself by learning args kwargs and decorators after just completeting couple of small projects such as tic tae toe and hangman lol, ill revise the basic concept again to peek into the abyss once more, glad to be here!!
+Then am at the advanced level now, and it took me less than one year.
+I really needed this video, after advancing to the intermediate stage, I just had no idea what to do next, thanks
+Thanks Tim!
+good and greate
+i wish we would just call &quot;classes&quot; adjective sets instead...
+I will reach master level python.
+on top
+One of the more advanced techniques for expert level is pytorch, and learning how to use models, and preordained models in your particular area, programming 2.0 concept.<br><br>As of 2023, ai will be present  on various levels of learning process
+started yesterday and i understand the basic skills. before, i already knew madlibs and how to use the print thing. i suppose i had a head start.
+I learnt a lot of these advanced things before I learned the intermediate things. Generators and multiprocessing is something I had to learn very early on because of trying make data intensive projects for ML.
+I cant beleive i went so long without learning about decorators..they are amazing
+I &#39;ve been pc grunt and then the world caught up with me!
+Hi Tim, I am a beginner, what are the basic tools I can start with?
+That&#39;s a genius.
+Thanks! I can&#39;t tell you how much this helped me. 😊
+Watching this video 8 months ago not knowing a thing about program to now going to my first coding interview for a software engineering job, life is crazy😅
+Why u teach speedly😂
+is it me or is he on the verge of crying with his breaking voice (Good video tho Overall!)
+Man thank you Brother may God bless you more beyond measures, Prosperity Awaitz🙏❤️🎉
+If i mastarted python by watch your lectures. How i get a job or how i can do python in where ...
+If Python is not the best language for almost any task, is it worth to master it? Maybe just be good at it then master other languages instead?
+Very inspiring ❤❤
+I just got a razor Blade and I’m on this hard journey now wish me luck!
+If you are in intermediate level i would recommend the book &quot;Fluent Python&quot;, it&#39;s awesome.
+check <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m37s">2:37</a>
+Can you refer some good books please
+cool kid.. i like you.
+Thank you sir
+Thank you Tim.
+Jesus loves you!
+I&#39;m glad I stumbled on this video! Now I have a clear set of what I need to learn to advance my skills. Can&#39;t thank you enough for this! I can only presume you&#39;ve made tutorial videos on all these so I&#39;m excited to find the ones I need!
+Thanks you verrryy much for this video, I was a bit lost.
+what are the books for all of this list
+Please Tim can you share the link for python advance tutorial course
+Anyone knows a good site about programming ideas? I think I know most of the stuff from here but still I am lacking of experience. It would be really good to have some site where you can practice what you have learned in a way you will see the result. Like getting some credits after you have completed something. I know a few sites like this but I really would like to hear your opinion maybe you know a better one than me :D
+Where to put API?
+Hello Tim, do you have a video exactly like this one but for other programming languages? I completed a basic python course and i didn&#39;t know what to learn next, but the intermediate skills you mentioned in the video gave me a much clearer picture of what to do next. I&#39;m interested in learning Javascript in the future, so i&#39;m not sure if all of these topics can be aplied there too.
+Just learn C first and then you understand why Python is such a good facade for it 😅
+Ok I&#39;m going to start with your beginner advice and see where we go from there! ^_^ thanks for making the video.
+As a Python enthusiast i couldn&#39;t pass the limit of basic skills because  i start and quit everytime but after watching this video i think i&#39;m gonna go further , actually i&#39;m in the microcontrollers field and i have a certification in machine learning and deep learning but what i love most is making automation with python , i enjoy your videos everytime i watch they&#39;re always instructive and good to watch keep up the good work , greetings from Algeria 🇩🇿
+Hi Tim thank you so much for sharing !
+This basic af and i still don&#39;t get it.
+Amazing, a clear path to Python mastery.<br>Thanks a lot, Tim!
+how long did it take for you to master python fully?
+Excellent 🇮🇳
+thank uuuuu!
+Hello Tim, are there any new features for python that came out in these 2 years of is this roadmap still the way to go?
+Do you teach those things on your curso ? Is your curso just python ?
+This is what I needed. Thank you very much!
+Thanks to this video, I have an action plan to improve my coding. I started coding in python but did&#39;nt know how or where to improve from. This gives a clear and concise idea of improvement
+This is amazing. evrything I need to know what kind of world I&#39;m stepping into
+Good morning Tim , I would like to have a video on Introduction to VS Code . Please I will appreciate
+This is not a good video
+I will like to get a personal tutorial from Tech with Tim
+Thank you. This is the best explanation on the web!
+I used to read solo learn tutorial while travelling by train. My brain melted at generators of lambda functions. But it was fun :D
+Where should exception handling be placed ? Basic or intermediate
+My advice would be to complete the beginner and Intermediate sections, then start contributing to open source python frameworks.  The real SW development will start then!
+Hallo Tim ,<br>can you please make video tutorials covering the intermediates and masters topics listed in this video.<br>Best wishes
+Can u give me the Discord link plz ??
+This video just gave me somewhat of a suprior complex......
+Everything I learn something I come back to this....don&#39;t know why...
+what is a set means? I have watch it a few times and still forgets.
+Thanks. Youre the man, Tim
+you&#39;re a champ
+Thanks
+I can see the Discord app on his desktop
+I am a Java back-end developer and recently started learning Python to do Leetcode and save time in interviews. This is a useful guide to get in depth into Python and become a Professional. Thanks Tim
+I&#39;ve been trying to learn python well but I&#39;m actually learn a wrong way. Now I know what I want to achieve and stick to it. Thank you Tim! You are amazing!!
+good job, that was awesome❤<br> But what about error handling?
+Thanx Tim by my perspective you are a master 🙏 python Sense 🙂
+&quot;with&quot; should be in beginners.
+Very good roadmap for python developer
+my god, those eyes are beautifull
+ReZors
+great overview! thanks
+At school, I learnt mainly beginner stuff, but when NEAs came round, I started learning most of the things listed in the intermediate and advanced stuff (like map, lambda, context manager, and CSV - which wasn&#39;t listed in this video). As of now, I&#39;ve only been programming for about 8 months, in and out. A good thing to do is obviously watch Tim&#39;s tutorials, but to also make your own problems and make algorithms to solve them, cos in this way, it&#39;s easy to have the &#39;programmer influence&#39; and learn topics out of your league.
+Amazing video, Thank you !
+Fantastic video. I&#39;ve only recently officially started my python programming journey. I&#39;m doing Harvard&#39;s cs50p course and am enjoying it so far. Learning the vocabulary of a programmer is as important as learning the programming language itself. For that, this video is great. Thank you!
+Great video as always but  I think one thing you missed out on is, learning how to document your code
+saw this video which led me to your 6-part series on OOP. Feel like I really understand it now. I&#39;ve leveled up from beginner to intermediate!
+Holy cow this video was extremely good and motivating<br>Thank you so much!
+Idk why most you guys imitate high school teachers? They have a curriculum to go through in a set time and they don’t care if you succeed or fail that’s why they just talk as fast as they could and get it over with… I literally got a headache one minute into this video.
+fuck oop, that&#39;s so hard for me.
+how to clear the screen after writing a code in python because the backspace doesnt work
+Why didn&#39;t you mention the algorithm?
+I just concluded my python OOP lessons, and I&#39;m lacking inspirations on projects to build, in order to solidify my knowledge on OOP. pls can someone help me out with OOP project ideas..?
+As expert I would say this video is epic
+I&#39;ve been studying python for about 2 months now, I&#39;d say I have most of the beginner concepts locked down, about half of the intermediate, and strangely enough I think the course already went into context managers (using with statements to open a file and do things with that file). <br><br>I&#39;m not really sure where my journey with python will end up, if anywhere at all, but I really hope it&#39;s a hell of a lot better than what I&#39;m doing now
+as always.........Good stuff.......
+Thank you so much for this Python video.
+dude looks like AI why he knows everything
+Awesome video Definitely!
+Dam I&#39;m not even intermediate yet 😢<br><br>But thanks for the vidéo !!! I will try to progress ^^
+great video
+I started learning by following your game guides. It&#39;s easier to learn when you can see your results in real time as the game slowly comes together. It helped me focus and made me feel like I was actually accomplishing something.
+python
+Thanks
+Great vid. Been teaching myself python for a few months and thankfully have all the beginner concepts down. Have a grasp of OOP, but almost nothing else at the intermediate level. Really helpful to know exactly what knowledge gaps I should look into bridging. Cheers!!
+Thank you, Tim. Thanks to you, I have an idea where I am now in my Python learning.
+Thank you for the video. I am grateful for your time and contribution. Kind regards, Akira.
+what about frameworks like django or kivy?
+this was nice, i apparently learned some things in backwards order. very helpful
+How and where do I learn &quot;How Python is built&quot;? I can&#39;t find any books or videos which go into the depths of how Python actually works. If anybody could help me out, that&#39;d be amazing.
+Really great description of the python scope
+You just gave me structure, I’ll buy your course
+My problem with python is I&#39;ve been doing c/c++ for so long, I don&#39;t want to learn python. It&#39;s like the rules are opposite and can hinder myself as a developer.
+Lol so I am 1/2 way through intermediate and also an expert/master because I use python on my job. This rules!
+Always learn something new when i here this guy talks.
+thank you so much, Tim. I was worried, not knowing where to go from watching tutorials that combined everything. I believe you&#39;ve given me the path. Thanks
+What are &quot;pantries&quot; <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=11m38s">11:38</a> they were mentioned in a sum up, but not anywhere  else?
+Thank you very much for this video.. it’s helpful
+Wait but what about different directories and all this stuff? What should we learn and when? I think it&#39;s kind of mandatory to know how to use some directories in python
+This video is like a torchlight in the darkness.<br>It told me exactly where I am in learning python and at the same time gave me an idea of roadmap of <br>becoming an expert in python.<br>I have just completed OOP and I am currently at Intermediate level.<br>Knowing this I feel a certain urge to learn more in Python. Thanks to your video.<br>Actually I am not computer science student. I am in 3rd and final year of my graduation and I <br>have changed my field to Data Analyst and so I am learning Python.<br>This video helped  me a lot and gave an insight into where I am in this python learning process.
+I wish my college programming course could recommend this video for programming learning roadmap.
+This video was recommended to me,  I just started learning Python can you please point me in the right direction on videos to help guide me ( I like the way you explain this very clear)
+This guy is legit
+You are very good 👍
+Are there any classes, either at university or internet that go through these concepts, teaching them throught project oriented lessons? This video itself has taught me a good beyond many other classes I&#39;ve taken. Any insight appreciated.
+After seeing your face for a while, it is bothering me that you look like Mike from &#39;Suits&#39; on Netflix. That aside, thanks for this really informative video. I am glad to have found a good channel to begin my coding journey. Thanks and I really appreciate the effort.
+I know C and C++ so I can say that I know python even without learning.
+What is weird for me is I&#39;ve used python for 4 years in university without ever touching OOP.
+So you want to become a software engineer at Google?
+I would not say that I am an expert in classes but I have been reading a book on OOP for about a month now.  I am learning a lot about classes and inheritance . I am not sure I fully understand a supper class , parent class , child class etc... I do know that a mixed class is a class that has 2 or more arguments seperated by commas like this <br><br>                                                                                                                        class example (argument,argument) :<br>                                                                                                                               def __init__(self) :<br>                                                                                                                                     self . attribute<br>                                                                                                                                     self. attribute<br>                                                                                                                                     self. method<br>                                                                                                                                     self. method<br>                                                                                                                             possible return value (not mandatory)<br>but that is pretty much my understanding of classes.<br>I know what strings are in python but my understanding of strings are limited<br>I have down if statements and input and I can print to the screen. there is a lot more that I know but I am not going to write everything that I know because it would take forever
+Thanks for making these things so easy to understand!  I enjoyed your curses tutorial, so now I&#39;m watching this.
+Hi mate great explanation , Can you make a video on Jython , like you have discussed about cython, Can we use Java with python , and how it can be implemented just an overview, Thanks
+Boolean operators aren&#39;t conditionals. They are operators.
+Hello <br><b>leakfullz is legit shop bro, you can see her tools in yt leakfullz</b>
+Thank you Tim! This helped me realize that I know most of the basics except chained conditional and file io. And mostly just need to practice the basics.
+in C you have to learn everything at once or your code never compiles xd
+Can you make a video for resources that are needed for Data Engineering especially? I want to practice Python with data pipelines especially. :)
+Thank you
+At which level would you need to be to develop GUI programs with PyQt5 or Tkinter?
+My man
+I love that list, however I&#39;m missing<br>- Proper exception handling (try, except)<br>- Logging<br>as intermediate topics. For me these two were essential for creating robust code.
+Thanks Tim
+awesome man!
+I would also include bitwise operations in intermediate, and move testing way earlier.
+Tim:is talking about stuff<br>Me : wow that pc is really good
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=14m42s">14:42</a>- breast APIs, my favourity type of API
+Yeah you can do it this way and learning it step by step, or you do it like me and just start with some C++ knowledge and directly jump into machine learning and AI, not the easiest way probably, but a very rewarding one
+GUI ?
+This was very interesting. Good to get an overview over most of the important python concepts!<br>Great work! I&#39;m definitely going to use this while learning
+Got my motivation back 😩
+This seems like something that would take 50 years to learn lord have mercy
+I’m a JavaScript programmer thinking of learning python…I did start with python before moving to JavaScript but rn I don’t think I can remember anything in python anymore as I’ve been using JavaScript for many years and not touched python for so long.<br>How long do you think it’ll take me to learn python and get comfortable?
+brilliant- just list all your other videos as resources. Lmao.
+Thank you! Great video!)
+Loved the video. Lots of useful information. Thank you
+Good and comprehensive. I’d argue with some of the categorization you made. Unit testing should be in the basic/intermediate. Please always leave testing for the end and code should be testable. And then design patterns. That should go into the expert. Design patterns are usually used by software engineers to architect a full software solution and knowing all design patterns and their implementation could save you lots of time and money as well as writing proper code.<br>Las but not least, algorithms and how to implement them in python and using them! Algorithms is what will help you pass those job interviews at MAANG
+is it just me, or does this man look like an AI render
+I am proud to say that I am in early intermediate level after less than a year
+Wonder what this guy actually looks like
+Great video! I do think that PIP should be earlier on the list  when people start to develop their own projects they often have to interface with third-party packages. In addition,  I think that testing should  be earlier as testing is super important and you’ll  need that for a job. I would say that I am an intermediate to advanced  programmer. One of the best ways that I’ve actually learned programming with python is streaming it live on my   YouTube channel. Otherwise, I totally agree with the list.   I think it’s a really great starting point.
+A lot of people don’t have good professors or teachers that are instructing them on python. I’m grateful that I have Tim, the other on YouTube, and a great professor to assist my learning. It’s an older video but thanks Tim
+Ok I have like everything about beginner stuff down, but damn it I thought I was more advanced xD. But hey i mean I remember the days when I struggled for days to write this silly, exception Input handling dice generator xxxD. I could write it now im probably less then 5 minutes but 6 months ago it took me days....<br>Thanks for the vid thats actually soemthing I searched for some time
+Ive beening programming since my freahman year of high school. Been out of it alittle after graduating due to working and the like, and you just made me realize that we actually went over some basic database struchtures in my 2 or 3 year of it.<br>Im still new to python but this is a great roadmap, now I know what it is I dont know instead of fumbling about. Thanks for the break down!
+great video! Coming from a fortran background, list comprehensions are one of my favourite things about python.
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m38s">2:38</a> :D
+I agree with almost everything- but Context managers should be python 101, because its good practice - I learned that way, and have some friends that did not, and I think its easier to learn the right way first, then to unlearn something. same argument could apply to generators and comprehensions, but I agree with your logic that they should be reserved for more intermediate, as they can be confusing for a beginner.
+do you even parse in BWL m8
+That mean i am in expert level let&#39;s goooo
+Solid.
+In your experience, what level are most professional programmers at?
+The best video I&#39;ve ever seen!!!
+All I got to say is Mic-Drop! In your expert opinion, where should I go to get tutored? I have udemy courses but I want to make sure I am getting the best knowledge possible... Thank you.
+thank you this
+Great video!<br>Being a Quality Assurance Manager, I recommend to move Test Driven Development to the Basic Skills.
+You need to create a course for these intermediate  level  contents please, I could only find one for beginners
+This guy is the best
+Thank you Bhaiya..
+Your’e just great Tim, thank u buddy 🙏🏼
+My fam Tim needs to get a girl
+basics - <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=4m40s">4:40</a><br>intermediate - <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=9m30s">9:30</a><br>Advanced - <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=13m10s">13:10</a>
+I&#39;ve watched many python YouTubers but I like the way you explain things you make programming easier and interesting.
+I&#39;ve only been learning Python for about 9 days and I&#39;m in my 30s. Sometimes I wonder if it&#39;s too late for me but I&#39;m motivated to learn!
+Grandmaster level: [copy and paste]
+I am so sick with python that I cannot understand it. I know C++ but python is so ridiculous, but for many jobs you have to know it😭
+“Welcome back to the Youtube Video”<br>There is only one Youtube Video.<br>Welcome back to It.
+Thanks
+hey tim i’m 17 and thinking of becoming a software engineer intern at walmart, but i don’t know what they do so i don’t know how to judge myself
+Even if I had not watched your other videos Tim, this video would have sold me.  This was very well explained and you probably think this doesn&#39;t matter but it does.  It was explained at the perfect tempo.  Slow enough for me to understand but not too slow to be boring.  Once I get my finances sorted at the end of January I am going to &quot;Join&quot; the channel.  I think I will be spending a lot of time here.  Thank you in advance Tim.
+It&#39;s good to know I&#39;m in the intermediate level now
+Is this real? Omg, such great content
+Earned a Sub! Well done.
+I started learning python a month or two ago and you brought up a lot of sets and i always wondered for what they&#39;re used for
+Officially created by the end of the year before the autocompleted
+stop saying rezources
+feels good knowing evry single step he talked about while im actually a beginner
+master level = ready to get a job = just start
+Enable subtitles at <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=14m13s">14:13</a> he just told singing 🤣🤣 btw great explanation keep it up!
+Very good video, thanks!
+Which one of your playlists should I start out with for learning python?
+This is excellent.  I appreciate the breadth across the levels.  Thanks Tim.
+Great videos. Does anyone know of Tim has an email where we could email him directly a general code interview question that isnt  easily available  ?
+What about regex?
+Thanks, Tim! I&#39;m on my way of learning Python.
+The only way I learn about this stuff is through projects. <br>Reading about what a string is just goes over my head. It&#39;s like reading random numbers to learn math.
+Lol can&#39;t help but say Sid grew up to be a sick programmer!!! IYKYK 😂 awesome stuff
+Just realised I am not a beginner anymore! WOOOOOOOO!
+Thorough and well explained. Thanks!
+Thanks for informative video.
+Go figure Cython is what you consider expert. I&#39;ve been coding for like a week and have already needed to know it
+Karim from afternerd has a similar video on the topics that should be learnt in the various levels of mastering python.
+11.14 with open(&quot;file.txt&quot;, &quot;r+&quot;) as f:  f.write(&quot;test\n&quot;) You cannot write to a file that you open in read mode.
+Thank you for this painstaking video. You have very elaborately explored the scope of Python. I had recently watched your video on the five projects in Python. This gave me a real hang of the  Python language. I enjoyed watching this video and will be practicing some exercises based on this video. Thank you once again and looking forward to more tutorials on Python and computer programming in general. My Best Wishes.
+Tnx  tim
+I was bored and didn&#39;t know what to do with python so I made a whole checklist about what I should learn, now I&#39;ve got so many things to do. Thanks!
+Some book u suggest me in python
+Tim&#39;s good looks sure don&#39;t make it harder for us to follow his lessons haha
+Ethical hacking =&gt; that&#39;s funny hahaha
+i am 12 years and i am learing python i watch your videos and it has helped me a lo
+Thanks brother, you information was very helpful, Appreciate your effort!
+I&#39;m 14 And I&#39;m Learning Programming :D
+maybe think of threads and processes that threads are kinda light weighted and processes are essentially forks.. the process would also be managed by the OS scheduler
+Videos like this is just what self learners need. I was all over the place when I started.
+can you make a videos on Machine learning too
+⭐️ Timestamps ⭐️<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=00m00s">00:00</a> - Introduction <br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=00m45s">00:45</a> - Introduction Animation<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=00m54s">00:54</a> - Video Resources<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=1m18s">1:18</a> - Basic Skills<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=4m40s">4:40</a> - Intermediate Skills<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=9m50s">9:50</a> - Advanced Skills<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=13m25s">13:25</a> - Expert/Master Skills
+dont worry guys. you can do everything with if statements, for loops and lists😂
+I’ve learn more python from your videos over my college… <br><br>I’ve learned nothing from class. <br>When are you accepting applicants for your Coding boot camp 💀😂
+Best advice, never code in python
+Sooo basically I become Master is month, then I leaned html/CSS after that JS, MYSQL, and now im In My old work as electrician 😋 did not figure out any good enuff project
+Or just know how to use a web browser
+Lvl: ???<br>&lt;|only use python codes to create something in reality|&gt;
+Can this curriculum be used on other programming languages?
+If you go to Russian section of YouTube. Then you notice that intermedia section is just beginning section here. All lesson speak intermedia section just beginning section. I go through this))) in week complete 100 task in code wars 8kata))) for foundation.
+This is the kind of content I was looking for !!
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=5m32s">5:32</a> help me, it&#39;s 3AM and I&#39;m LAUGHING SO HARD
+thank you - you have very good video - I&#39;m now the intermedia level 🙃 way to go
+Well that put me right off taking the first step.
+Cool video, but you forgot Algorithms.
+Thanks for this video<br>I learned many things about other things...
+This is the most comprehensive guide for  becoming a python developer
+You are a legend. Truly making this world a better place by making these informative videos.
+How long does it take for an experienced developer to master Python? I have already used Go for over 5 years.
+Really like how you gave a guide to master python. I started learning python only recently and this gives me an idea of what to shoot for. Thank you Tim.
+😍😍😍😍
+Experts go and create ecosystems and environments, then the next level is INSANE, they manipulate binary, or carry out bit manipulations on executables for reverse engineering and other silly applications. Anyone on the insane level has no life, they are technically MAD.
+Thank you alot my guy this helped A LOT
+This is super video
+Hear me out, I WILL get to the advanced part 1 one year. That is my goal, to become decent at Python. I leave this message as a reminder of this promess
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=10m20s">10:20</a> im sorry tim, love the content tho.
+Here&#39;s my anti-paranoia pill: 💊<br><br>I take it every time I want to watch this video again...<br><br><br><br><br><br>Edit: Really....I watch this once every 2 days
+you are amazing thanks ever so much.  best programming channel
+Thank you, I&#39;ve now made up my mind
+I year after,  this is helpful
+This was insanely useful to me, as I will be teaching a beginners Python course! Thank you for all of your videos. They&#39;re always awesome.
+This guy is really helping us
+Very helpful video!
+like many subjects, when you are ready to give up, you are nearly  ready to grasp it ..so keep going and eventually it clicks..
+No I don&#39;t wonta be software engineering at googer.
+you made it short and precise. It will save my time much. appriciate for your sharing.
+When you consider yourself an intermediate, but know generators: <i>Signature Look of Superiority</i>
+Python sucks
+great video well done man
+This video is well made and you can consider it a motivation for those willing  to learn Python
+Hello,(sorry about my bad English)
+This shit is overwhelming me already 😡
+Can you do a similar video but with Java ?
+i would include learning math in advanced or expert
+I am from bangladesh. At least i get a channel that are  saying  something, not disgusting tutorial just for beginners. May god bless you. I want to meet you if i come USA.
+its strange, idk the first part of intermediate, but ik most of the rest
+Tim ur a beast
+Hey thanks for this. Im a huge fan. I watch u on alot of my lunch breaks at work. Ive been lost for the past couple weeks on what to learn, n this gives a little bit of a roadmap. Thank u fr
+Im good with everything but classes, i just cant understand them for some reason
+SEE thon? really? CEYE thon
+pip = preferred installer program
+Tim, you&#39;re a real genius.  hope can i be like you someday
+The hardest part of programming isn’t the syntax. The number one hardest part in my opinion is the logic and how to think your way through a problem so that you can solve it. <br>Secondly, it is learning how to be efficient in your code. There are several ways to solve a problem and you need to come up with version that is the most efficient in speed and memory allocation. Thirdly, is to know the inner workings of the language and how the different data types and data structures interoperate with each other. I’ve been studying programming for a year and a half already and have barely scratched the surface. I’d say I’m right at the intermediate level. I pretty much have mastered the basics. Furthermore, in my experience OOP was the easiest because it is the most intuitive part of programming. If you just keep the idea of a blueprint in mind you should be ok.
+I thought I was a beginner but I guess I&#39;m a intermediate in intermediate!!!! I&#39;m really happy!!!!
+Thank you for sharing your knowledge.
+Tim has put the legit time and effort in just teaching us how to code….<br>He has sooo many tutorials and resources that help us so much!<br>In this video, he even wrote a list of the topics - which shows us that he really takes teaching us how to code seriously<br>The people who disliked this video should be ashamed
+Thank you brody
+i want to do machine learning, but.....where to start from??
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=14m43s">14:43</a> did you say breasts api , if you do, that&#39;s legendary =))))
+Great info thx Tim, liked and sub, beginner
+thank you for the video. ADVANCED helpful!
+What editor and colour scheme do you use
+I get what I have to learn, but how do I learn to think logically? I can&#39;t solve even the simplest exercises
+Your videos are always cool and details. I love it
+Quality contents still exists ,why do we need colleges....<br>I wanna appreciate Tim, and mosh ....
+How did you get to where you are today, any specific courses?
+where would you put regular expressions?
+What I do with the videos is just watch them during freetime, then if I want to learn the video add it to a playlist. Then during learning time, I go through the playlist, coding and note-taking along with each video.
+Hey yo Tim, how about you write a small book with little examples on this very topic.
+Haha, &quot;Writing the codes with your hands, by yourself!&quot; I really loved that.
+For Arabs you can find all this topics and more in Elzirowebschool youtube channel
+can I apply this to c++ or any other language?
+&quot;maybe you&#39;re doing ethical hacking&quot; is just a way of saying maybe you&#39;re hacking that doesn&#39;t get him in trouble lol
+Please all this syllabus you listed how much months will I dedicate to learn them.
+I don’t get why you put context manager in the advanced section. This is the right thing to use when you manipulate file...
+That Algo Expert isn&#39;t too badly priced - anyone used it and have some reviews? In browser IDE sounds good along with interview questions
+I’m literally a mix of all of those sections 😂, like I’m technically “a beginner” but also covered like most or at least half of intermediate and some features of advanced, but thank you so much!! This has been very useful
+me thinking this was gonna be a 16 minute godly video teachin me how to actually do stuff ._.
+Your guidelines to become a better programmer is detailed and specific.... Really appreciate your suggestions and methods. Thank you very much!
+cool
+Which language is harder Java Script or Python?
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=1m43s">1:43</a> dixvitesse
+Can you open a txt file and dump the python code inside it, save it then close the txt file?
+Level 6: Build your own language better than Python.
+I have a doubt , what actually do python developer would you tell pls and what are the prerequisite to learn python developer
+Hi sir <br>I really need your help please help me with python prog with class work !!!
+Looks like I can never program because I don’t know anything about snakes.
+THE THING I DON\T GET IS THAT when I installed python for windows all I GET IS A GOD DAMN CMD WINDOW THAT LOOKS NOTHING LIKE THE programs on youtube videos. YOU CAN&#39;T EVEN WRITE line commands only 1 line
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m38s">2:38</a> lmao<br>If you dont understand it means:<br>If you input this youtuber&#39;s username you are &quot;the best youtuber ever&quot; and if you put your name it says &quot;bye...&quot; XD
+Thanks <br>I’m intermediate
+Love this video 😻📸
+need these type of videos for other language like c++,js
+First a need to learn how to print &quot;Hello World&quot; 😆
+My instructor Jose Portilla teach most of them
+It&#39;s funny that i know most of the advanced topics but not the intermediate topics.<br><br>I think it&#39;s time il learn OPP&#39;s
+Thanks dude!
+Thanks for the help Tim!!!
+Bee Movie Script - Dialogue Transcript<br><br><br><br>  <br><br>According to all known laws<br><br>of aviation,<br><br><br><br>  <br><br>there is no way a bee<br><br>should be able to fly.<br><br><br><br>  <br><br>Its wings are too small to get<br><br>its fat little body off the ground.<br><br><br><br>  <br><br>The bee, of course, flies anyway<br><br><br><br>  <br><br>because bees don&#39;t care<br><br>what humans think is impossible.<br><br><br><br>  <br><br>Yellow, black. Yellow, black.<br><br>Yellow, black. Yellow, black.<br><br><br><br>  <br><br>Ooh, black and yellow!<br><br>Let&#39;s shake it up a little.<br><br><br><br>  <br><br>Barry! Breakfast is ready!<br><br><br><br>  <br><br>Ooming!<br><br><br><br>  <br><br>Hang on a second.<br><br><br><br>  <br><br>Hello?<br><br><br><br>  <br><br>- Barry?<br><br>- Adam?<br><br><br><br>  <br><br>- Oan you believe this is happening?<br><br>- I can&#39;t. I&#39;ll pick you up.<br><br><br><br>  <br><br>Looking sharp.<br><br><br><br>  <br><br>Use the stairs. Your father<br><br>paid good money for those.<br><br><br><br>  <br><br>Sorry. I&#39;m excited.<br><br><br><br>  <br><br>Here&#39;s the graduate.<br><br>We&#39;re very proud of you, son.<br><br><br><br>  <br><br>A perfect report card, all B&#39;s.<br><br><br><br>  <br><br>V
+How do I know what kind of projects to build based on the topics I&#39;m learning?
+Thank you brother for the information
+Wonderful vídeo! Thank you !!
+Can you make video like this but for dart/flutter
+How to use python for forex trading ? What things to learn ? Give a guide.... thanks Tim
+THANK YOU SO MUCHH!!!
+This is brilliant! It really is well done Bro.
+I com from c# and Java, i loved python when I saw the syntax
+Thank you Tim
+Thanks tim
+Thank you!
+I learned Python in a very unstructured way. Learned the things I needed at the time. I don&#39;t feel confortable with things on intermediate but lots of things on advanced I thought were basic :p
+Hi, Tim. I found this video quite useful just like the rest of your videos Thank you for that. I see than you also make C++ tutorials for the past few weeks. Could you make a video on Mastering C/C++
+I&#39;m sorry but I clicked on this video and my first thought was damn this guy looks like sheldon
+birth: thinks python as gaming kit<br>after seeing this<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>birth: ............................................................<br><br>cause of death: brain explosion
+I think yout spech too fast. Slowly please. Need more times for understand whatt you said .
+<b>Challenge</b> <br>noobs: learn Python and make 10$ dollars in 1 month<br>juniors: learn Python and make 100$ dollars in 1 week<br>seniors: make 10 juniors make 1000$, in less than 1 week
+.
+&quot;list comprehensions are pythonic&quot;<br><b>cries in haskell</b>
+Who use Codeddit App for programming<br>Question
+Good to get some ideas on presentation and format of lessons.  I am trying to do some stuff on here, any comments and feedback would be great.  @
+What if we want to learn c/c++
+You look like KYR sp33dys younger brother
+I didn&#39;t know how much I need to learn
+I LOVE THIS CHANNEL!
+Seems fairly easy after C#, I think I can pick this up quickly.
+I&#39;d grateful for this video. That helps me a lot to stop going around to learn Python. It&#39;s very helpful and clear information that I need to know. Thank you so much Tim for sharing steps by steps! Keep the good work &lt;3
+@animemilk pasol tii
+Poor tim needs many more subscriptions. Come on, help a brother out! Quit watching and not subbing. Keep up the great work Tim.
+16 mins stretched gg
+Very very practical advice, you are the real deal!
+According to your guide I&#39;m intermediate and have about 6 months of python self learning
+Useful video. Started out real simple and I wondered if I should continue watching, but I must admit that I did learn something.<br>Threading and Cython are my next things to learn.
+Do we need to hit &#39;advanced&#39; to have a good chance to land on a good first programmer job?
+Thanks for making this as I need a roadmap on what to learn next
+I commented earlier but had to ask this question. I&#39;m thinking of building an educational program about a musical instrument, for I am a musician myself. <br>I&#39;d like to include a back ground music, a graphical representation of the instrument, sounds of different notes or chords played by the instrument, and the whole program will be based on question and answer style. <br>What should I focus on if I want to build the program as quick as possible? I&#39;m done with the basic stuff and got into the intermediate level stuff recently but I want to start building the program now and got to wondering about this.<br>I&#39;d appreciate any answers from anyone. Thank you all in advance.
+Wow. Good to know I&#39;m already in an intermediate level only after 3 weeks of delving into programing with python as a complete beginner. <br>Just got into objects and classes like 3 days ago after getting comfortable with the basic stuff. <br>But how would you rate my progress? Out of, fast, normal, okay, slow, sloer, the slowest, or you&#39;d might as well quit, scale? lol
+Simply amazing!!!!! I&#39;m a Spanish native speaker with a low English level and a Python beginner with 64 years old (my neurons are a bit hard to learn) but Tim&#39;s so clear and fluent! Thanks a lot Tim, you&#39;re making my learning path easier....
+The os module is really powerful
+Cleared me up so many things, thanks man.
+Bro I have a question? <br>I want to say that if I learn python in 1 year or 2 then get some job or make some dollars like fiver or upwork or any platform?
+Love you bro thanks so much for your amazing tutorials. This one is a must watch.
+Idk why but i felt really happy watching this video <br>cheers tim 🍻
+Hey Tim can u pls make a video on making a long code app without using tkinter or stuff like that........PS:- Pls by the end of April 5
+Tim: &quot;Rest APIs&quot;<br>YouTube Caption: &quot;Breast APIs&quot;<br><br><br>Me: KEKW
+You definitely deserve (like, subscribe and notification button ON) .
+What do software engineer freelancers do vs web developer freelancers?
+luv ya
+I know every thing listed here except cython and  module creation<br>now looking forward to learn c
+You really need to do some tutorial most especially on the advanced python like cython &lt;-- what does that even mean
+really I know almost everything from the beginner to advanced but not every thing
+Can we have a similar video like this for C# too please. Loved this one! :)
+tech with tim SAY HI TO OLIVER LOL
+Tbh in the past 3 months I&#39;ve been all in python, but seeing this video made me realize that I went too far, learned but didn&#39;t practice enough.<br><br>I know some of the stuff in the advanced section. And almost everything before it.<br><br>And I know I just realized that in the future python will help me with my college studies which is a great thing. <br><br>Thanks a lot tim 💚
+Desktop app .exe project???
+Thank you! :)
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=11m14s">11:14</a> You have opened the file in read mode, so you cannot write in it ;)
+really helpful!! Thanks
+Thank you for the video, you helped me
+what you said at the start of master level about how python is built, I don&#39;t know if I&#39;m the only one, but when I learnt the VERY very basics I wanted to learn how programming languages are made and work.
+are the basics and intermediate skills enough to search for a python job?
+good vid thanks for uploading i am begginer and it helps me a looott
+Can i learn intermidiate to advanced in 1 year i have completed beginner
+where can i find missions to practice in python ‏ like I&#39;m instead of from practicing I can also can learn but I also need to practice some subjects to remember that so you have like a system or any place that you would like to recommend me to use like I&#39;m using solo learn but I I need a place to practice as well with missions program a beginner in python of course
+i dont think you understand how helpful you are. this might one of the most helpful vids to get you started with python. thank you!!
+do you stream on twitch? or only on yt
+This is exactly what I needed 🙌🏾 Thanks loads
+is that different practice for embedded python software devolopers ?
+I did not distgush things something like that , I have been learning python since couple of weeks now , I am from Java Background , I covered some of the things in mastery level ..I think this is where the paradox is .. i think that I am master now and you slow down my learning rate ( You are not an ML algorithm,  it can be as high as you want ), I think it&#39;s  just better  to consider that you don&#39;t know anything about python ! This is when you learn really really fast
+cool
+what about regular expressions ?
+you forgot the special variables
+Please do another series for backend and front end development knowledge. Maybe React, Django and SQL
+It&#39;s a lot
+I&#39;m 27. I think I&#39;m too old to learn to code.
+I’m learning python  this year but also java. My teachers gave me some interesting projets using java but with Python we just code maths functions so i want to know for what kind of job do i need python and why? I really like Python (i’m intermediate tho) i want it on m’y future job for sure! Sorry for the english mistakes 😅love from France!
+what ide are you using ?
+Expert level but still learning there is much more to learn.
+Dude, you very good, thank you!
+Just watched his tutorial for beginners. And DAMN He explains it so good. Learned more from is videos that are free than the courses i bought and still cant figure out what its al about. Give this man the respect he deserves couse he is really putting in the effort to teach people on a good and understandable way. May god bless this man. Keep up the good work!💪🏽👍🏽
+thanks <a href="http://alot.do/">alot.do</a> you see python dining in the nearest future, do you still suggest learning now
+I thought I was advanced xD
+now I know that I don&#39;t know but I will try to know   THANKS TEM!
+<a href="http://www.youtube.com/results?search_query=%23mastering">#mastering</a>-python<br><br>/basic<br>/intermediate<br>	-oop<br>	-design pattern<br>	-data structure<br>		-algoexpert<br>	-Advanced class behavior in python /dunder-method<br><br>	-pip /modules<br>	-Asynchronous programming /AsyncIO(built-in)<br>/advanced<br>	-decorator<br>	-generator<br>	-context manager<br>	-meta-classes<br>	-Concurrency &amp; parallelism<br>	-testing<br>	-build and manipulate package<br>	-Cython<br>/expert-master<br>	-depend on specific area<br>	-Apply skills to your profession
+excellent
+Rn im at the end of basic programming. The only thing i didnt understand are dictionairies :(
+explained perfectly simple language i love it keep it up man nice job
+Thanks for guidance ..I am still a beginner ..I want to master python as soon as possible ....this guide  will definitely align my way to become python master :)
+basically you drew the roadmap for learning python
+Realizing I learned the hardest shit first...
+Thank you so much!! I appreciate this video and love your style and is what I needed!
+Sir yes Sir.
+Write a program to check whether the name in the list starts with  vowel or not.<br><br>friends = [&quot;Adith&quot;, &quot;Chinmay&quot;, &quot;Mat&quot;, &quot;Deb&quot;, &quot;Aman&quot;]<br><br>Use if condition to check the names start with vowel
+This was really a good video and helped me a lot as I&#39;ve recently started teaching python to some local kids. I was wondering if you can make something similar for JavaScript as well. Thanks
+Basic<br>-	Variable.<br>-	Conditions<br>-	Chained conditionals <br>-	Operators<br>-	Control Flow<br>-	Loops and iterates<br>-	Basic Data structure<br>-	Functions<br>-	Mutable Vs immutable<br>-	Common methods<br>-	File IO<br>Advance<br>-	Comprehensions<br>-	Lambda<br>-	Collections Modules<br>-	 Maps and Filter<br>-	*args and **kwargs<br>-	Inheritance<br>-	Advanced Class<br>-	Behavior<br>-	PIP<br>-	Environments<br>-	Module Creation <br>-	Async Io<br>Advance :<br>-	Decorators Generators<br>-	Context Managers <br>-	Meta classes<br>-	Concurrency<br>-	Parallelism<br>-	Testing<br>-	Packages<br>-	Cython
+love this really helped me<br>thank you so much
+What if i told you that God came in the form of man(he was human through his son, who is Jesus Christ) into the world, so that he could die for our sins, and he did this, therefore through his death the devil who had the power of death would be destroyed, and by doing so deliver all those who through fear of death were subject to lifelong slavery, and also input his spirit in our hearts. The Son of God became the Son of Man in order that the sons of men might become the sons of God.<br>Salvation is the dead coming to life never to die again, because we were once dead in sin, but when Christ rose up, we became dead to sin and were given new bodies, not only that God gave us a comforter who is the holy spirit and he dwells inside of us.<br>Therefore, after all this was done all we needed to do to tap in, was to believe that God in human form(Jesus Christ) came to die for us, because of his love for us and rose up on the third day so that we could all have eternal lives(Never die again). We can see this in John 3:16 :- &quot;For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life&quot;. You can receive eternal life for free by just believing. Jesus put&#39;s a higher meaning to love by the way he loved.<br>God has forgiven you already, no matter the kind or level of sin you think you committed, and all he wants you to do is believe, believe today and let the Holy spirit(The comforter) dwell on your inside. To learn more you can check out Celebration Church ng on youtube.<br>Regardless of what you might be going through, your feelings or circumstances, your faith in God’s love will remain unshaken when you stand strong in the consciousness that he sent his son to die in your place so you can have eternal life. Say this &quot;I am dead to sin, and i am alive to God.&quot;
+My friend and I know this channel and we were surprised because we both thought that each of us didn&#39;t know. LOL.<br>These videos are awesome btw tim😄
+You&#39;re cute
+huh Timbo
+I always thought I didn&#39;t know anything, but apparently I already have everything from basic and intermediate
+Thanks for putting this together!  it&#39;s very helpful especially for beginners to programming who need a path to follow . Great job!
+Thank you so much. Your resources are easy for a 10-year-old. I am ten years and an intermediate python programmer. And you taught me so much!!
+Tech Tim ,do you convert python to other languages. like to c++ or c#
+I owe a lot to this nice human!!
+I would say youtube is the best resource for Python, because literally ever video I click has good comments
+a great master!
+Thanks a lot Tim for providing such a detailed and clear pathway🙏🙏<br>Can you provide a similar pathway for mastering Java😅
+I actually started python 10 days ago and used to think I was a total newbie. Turns out I know most of intermediate topics. Thanks for boosting my confidence.
+Thanks Bro
+&quot;Me while the whole video&quot;<br>Me: Sorry, what?&quot;
+Code <a href="https://youtu.be/9hPk4Zky-Wg">https://youtu.be/9hPk4Zky-Wg</a>
+Thank you for summarizing it. It allows me to know where I stand.
+Thanks Man
+why does he look like mr beasts brother
+I am relatively new to Python and this information was really useful
+Really useful information. Keep up the good work!!!
+This is the first time I am learning Python and it is really helpful
+You look like a CGI character, and I say that in a respectful way.<br><br>Thanks for the video, BTW
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=5m30s">5:30</a> doesnt class Dog need to inherit from object? class Dog(object):
+The MOST IMPORTANT thing is to PRACTICE DAILY
+Can u go into those expert lv jobs like ai without a degree?
+Great teaching skills...<br>Thank you.
+I&#39;m joining as a tool developer in a new firm soon. I just want to know which are the packages that I would be needing over the years in Python. So, that when needed I don&#39;t have to raise an IT ticket for getting admin rights to download and install packages after waiting 2-3 days. Tech with Tim please respond if you see this comment by any case!
+Art thou Canadian?
+Damn this dude is packing
+thnx
+Is it late to pursue programming at 25 and everything else as well
+Not a lot of people have watched this video but they <i>should</i> because it tells you exactly what to without all the &quot;practice every day&quot; videos without telling you what to do. <br>Sure, if you&#39;re that kind of person who knows what to learn and just wants some motivation you can watch those kinds of videos, but now people stuck in tutorial purgatory know exactly what to check off their list.
+When you mentioned Cython (which I had never heard of), I did a YT search for videos I can watch to introduce myself to the topic, and one of them recommended using PyPy instead (not to be confused with PyPi). So those are two topics that pique my curiosity thanks to this video. And now that every CPU is multicore, parallelism sounds important for performance. Meanwhile, concurrency is a surprisingly good way to pull information over the network faster. I say this not as a Python programmer (where I&#39;m still a beginner) but as a computer technician, so I don&#39;t know if the Python implementations of these technologies are any good or not.
+Thank you Tim. The amount of information you give us is impressive.
+Thank you Tim. The amount of information you give us is impressive.
+Thank you Tim. The amount of information you give us is impressive.
+tnks
+i been having a problem lately,i made a python script that uses the pyautogui and pyscreeze module and im trynna make an exe file,but when i runt it it doesnt run the functions from pyautogui and pyscreeze.Can someone help me?
+please make more pygame videos project  tim !
+please make more pygame videos project  tim !
+I&#39;m a beginner at Python (and programming all together) and I will use this video as a syllabus for my Python journey.  Thank you very much!!
+I will revisit and continue, after I have master the Basics. Thanks.
+How do I turn off my computer?
+sometimes it&#39;s just hard to believe that this guy is the same age as me
+is there a website tutorial using oop in python
+i love the way it teaches, it&#39;s very fun and
+You should start learning to test from the beginning, otherwise you have developed bad habits and by the time you start testing you do it poorly if doing it at all.
+Hi tim<br>I&#39;m ahmed <br>I have learned python basics and intermediate  <br>What should I do?!!
+Thank you for this! I needed this. I&#39;ve started learning Python on Udemy - but, I will check/watch your videos more often as well.
+Hey 24 Aug 2020 is my birthday..
+DO U WORK IN GOOGLE?
+Thanks very helpful
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=3m00s">3:00</a> tuples be crying rn
+lol did he just say &quot;welcome back to the youtube video&quot;??
+Python learning you must have in depth logical skills .
+That&#39;s exactly what I needed. Thank you
+I would add to the intermediate section all the exceptions part and try and except blocks, and main function as well.
+how long have you being coding?
+thanks bro for the tips
+huge topics, at intermedia level already creating programs
+Best way to learn code?<br>Code!<br>Try stuff, start projects.. google things if they don&#39;t work.
+I mainly am at the basic level, but when I ran into a problem, google recommended me a solution that used generators, and I have been using them ever since.
+should i learn python or c++
+This guy has a strange haircut , I don’t trust him.
+very informative,  well organized,  thank you!
+One of my best MENTOR. ❤️
+I love you.
+Thank you for a clear and concise video that gets to the points. Helps a lot when trying to figure out what elements to learn and in what order.
+i have always liked your video quality
+Wow there is like gazillion information in this one video. This is actually helping me a lot to start my journey. Thank you
+Hey !  really nice and helpful video but , I just wanted to tell that there in no thing such as mastering python , THE MORE YOU KNOW THE MORE &quot;BILL GATES&quot; YOU ARE😁😁
+I think I&#39;m intermediate. There are some topics in advanced that I use a lot at the moment like Cython and some in the intermediate that I don&#39;t know much since I don&#39;t use it. Regarding on cuncurrency and parallelism, I currently take advantage of multiple threads of uwsgi and nginx to minimize the limitations of GIL since I find that threadding module more complicated and if there are data needed to be shared across those threads, I used redis to cache it.
+I wish i could have seen this video before i started python. So helpfull thanks
+Me: thinks I’m pretty good at python<br>Also me: all of the projects I’ve done haven’t even used all of the basic features he list
+What a bout Jython is it  good or not ????
+Congratulations, Tim!<br>This is a mandatory video for those who want to master Python.
+12: Python Projects from Beginner to master:<br><br>1: 4 function calculator<br>2: add a GUI to the calculator<br>3: to check if a number is prime<br>4: random anything generator<br>5: snake game with GUI<br>6: Web scraper<br>7: Make an image file compressor<br>8: create a file manger/viewer with gui<br>9: create your own python module.<br>10: Rest api<br>11: your own programing language<br><br>Master bonus: your own operating system (using Cython for C framework then python for functionality and GUI.)
+something I don&#39;t understand about python&#39;s naming choices is the the Dunder(__something__) stuff python tries so hard to &quot;pythonic&quot; that most think is human readable, to me &quot;pythonic&quot; is anything that does not throw a error. Why not call &quot;__init__&quot;: &quot;constructor&quot; &quot;initialization&quot;, or &quot;First Run&quot; or just &quot;First&quot;.  and &quot;Override  Equal&quot; or &quot;Override ==&quot;  instead of __eq__. and don&#39;t give me oh I have to type more because holding down shift takes longer and breaks typing flow look at your hands. why are these things &quot;higher&quot; level what do you think &quot;def First(self):&quot; in a class would do if &quot;First&quot; was a keyword, or &quot;def Override !=&quot; in class if Override was a keyword.
+python != programming concepts, so first learn it all away from lanfguage, then attack sth
+Thank you! Tim
+Tim , where are design patterns and a knowledge how to debug code. I think design patters should go to advanced , and debugger to intermediate lvl. You also didn&#39;t mention a useful inheritance( we almost use it everywhere)
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=14m41s">14:41</a><br>Tim : Maybe your writing REST API<br>Subtitle : Maybe your writing BREAST API <br>Me: Noice
+Thanks for the Video The Father loveth the Son, and hath given all things into his hand.<br><br>36 He that believeth on the Son(Jesus Christ) hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.&quot;<br><br>Jesus Christ is real. if you don&#39;t keep his commandments the wrath of God abideth on you(which will be forever in hell)<br><br>Repent and turn your life to Christ before Judgment day comes.<br><br>Many people will disagree and mock you trust me, but its worth it for an eternity praising our Creator. As Jesus said &quot;if they hate you remember they first hated me&quot;(John <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=15m18s">15:18</a>). Read the bible, start from the New testament. God bless you. Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.(Joh.3:3)How to be born again? You can not(like how you wasn&#39;t physically born by your own will) by your own will, but what you can do is ask God (Mat 7:7 for the rest..)
+The basics 😰
+It was very helpful
+You look 12
+To Become a Python Master You Need To Know  Everything
+Will definitely be referring to this video, especially the beginner and intermediate sections, since I&#39;m just starting out.  Thanks man.
+How long would you say to become a master in python?  2 years?
+amazing
+hey how does this work?<br><br>x = 5 &amp; 3<br><br>ya know: <br><br>x = 5<br>x &amp;= 3<br>print(x) <br>= 1
+I am wierd, here is what I learnt today:<br>Basic: yep I basically know it<br><br>Intermidiate: I know most of it but not all so surly I won&#39;t know the advance leve-<br><br>Advanced: I know about 75% of it....<br><br>Expert: nope, I am not a expert.
+tkinter??
+I’m new to python. From my humble point of view this was a very good explanation of what I should expect along the way. I laughed at the ethical hacking phrase :-). These two words are opposite in meaning. There is a specific word for it but it evades me right now. Great vid.
+<b>All Tim&#39;s reccomended skills for each skills level</b><br><br><b>I reccommend actually watching the video, this is just to remind you</b><br><br>----------------------------------------<br>Basic<br>----------------------------------------<br>1.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=1m46s">1:46</a>  Variables<br>2.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m00s">2:00</a>  Conditions<br>3.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m09s">2:09</a>  Chained Conditionals<br>4.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m20s">2:20</a>  Operators<br>5.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m35s">2:35</a>  Control Flow (If/Else)<br>6.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m40s">2:40</a>  Loops and Iterables<br>7.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m50s">2:50</a>  Basic Data Structure<br>8.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=3m10s">3:10</a>  Functions<br>9.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=3m17s">3:17</a>  Mutable vs. Immutable<br>10.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=3m48s">3:48</a>  Common Methods<br>11.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=4m11s">4:11</a>  File IO<br>----------------------------------------<br>Intermediate<br>----------------------------------------<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=5m14s">5:14</a>   Object Oriented Programming  <br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=5m50s">5:50</a>   Data Structures<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=6m05s">6:05</a>   Useful stuff to improve your programming [Code: &quot;techwithtim&quot; for 10% off]<br>1.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=6m43s">6:43</a>  Comprehensions<br>2.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=7m10s">7:10</a>  Lambda<br>3.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=7m38s">7:38</a>  Collections Module   <b>(Useful to understand)</b><br>4.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=7m38s">7:38</a>  Map and Filter             <b>(You can use on collections)</b><br>5.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=7m55s">7:55</a>  ⋆args and ⋆⋆kwargs    <b>(Reccommended to learn this before learning decorators and first class functions/closures)</b><br>6.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=8m17s">8:17</a>   Inheritance<br>7.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=8m32s">8:32</a>   Advanced Class behavior<br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=8m40s">8:40</a>    Dunder methods (Reccomended for advanced class behaviors)<br>8.	Bahavior<br>9.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=9m00s">9:00</a>  PIP      <b>(Python Package Manager)</b><br>10.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=9m11s">9:11</a>  Environments<br>11.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=9m18s">9:18</a>  Module Creation<br>12.	<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=9m30s">9:30</a>  Async IO<br>----------------------------------------<br>Advanced  <b>(You don&#39;t &#39;Need&#39; to learn this to be a &#39;Good&#39; Python programmer, but if you know basic and intermediate, you can learn it when u need to)</b><br>----------------------------------------<br>1.	Decorators <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=10m25s">10:25</a><br>2.	Generators <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=10m42s">10:42</a><br>3.	Context Managers <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=11m07s">11:07</a><br>4.	Metaclasses <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=11m21s">11:21</a><br>5.	Concurrency <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=11m40s">11:40</a><br>6.	Parallelism <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=11m40s">11:40</a><br>7.	Testing <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=12m28s">12:28</a><br>8.	Packages <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=12m43s">12:43</a><br>9.	Cython <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=12m58s">12:58</a><br>----------------------------------------<br>Expert/Master <br>----------------------------------------<br>⦁	How is python built. <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=14m00s">14:00</a><br>⦁	Where are you using your skills? <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=14m14s">14:14</a><br>⦁	Apply skills to a profession. <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=15m10s">15:10</a>
+those dislikes are from antivaxx moms
+Im not even finished basic level and know few intermediate skills, but I know some of advanced too 🥳
+amazing introduction for learning python thank y@@
+Wow! This is perfect. I wish I found this years ago.  You should make a full stack beginning to expert in this same format. Maybe a series.
+In which category would u place graphics module of python ? Begineer or intermediate??
+what is the text editor he is using while explaining the basic level? it looks really clean
+print(&quot;Hello World&quot;)
+Hey there I am an intermediate programmer but wanna move to advanced level so can you start an advanced course for Python. I really want to work with this language......😉
+I memorized all the names for all levels. Guess mastered the hardest part in 15 min)))
+Yay looks like im a pythoneer
+Hi Tim, I&#39;m asking for a friend. He&#39;s very tech savvy: An expert in BASIC and he know&#39;s some Fortran 77,  as well.  Despite being in his early 60s he&#39;s ready to go into the tech industry. The only obstacle is that he&#39;s not familiar with the present corporate culture since he has been self-employed for almost all his entire life. He likes to comment on women&#39;s physical appearance and he is very &quot;handsy&quot;. Which company do you suggest where he might be the right fit?
+print(&quot;The more you know the more you dont know&quot;)
+Thank you so much Tim. Looking forward to never-ending tutorials and informative videos on Techs and wholehearted gratitude for the AlgoExpert Discount!!!! Lots of love!!!
+I&#39;m learning Python for my first year in university right now. So I really need to ace this one. It&#39;s starting to get fun, but need to solidify my knowledge.
+Thanks for your video man! You think as an intermediate you could find a job?
+Thanks!
+Thank you.<br>you have no idea how helpful this video is for me.<br>I literately was lost in this vast programming world.
+This might seem old fashioned, but I actually don’t like learning things through videos at all, so I wanted to ask: is there any book or website with written text that you can recommend to improve Python skills?
+good
+One word - WOW!!!
+Tim you&#39;re the best!
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=11m15s">11:15</a> opens file in read mode, writes to file :p
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=5m17s">5:17</a>
+Based off this I have an understanding of intermediate python , but I don’t feel like I know it lol I haven’t made much and I took a break so I don’t even have a certification in a free online course lol may give up but I keep finding my self looking up things about this topic, who else is crazy ? lol
+great video, thank&#39;s Tim :)
+When you&#39;re a beginner and already know testing
+you
+Getters and Setters are a useful topic to add to the Decorator section or elsewhere.<br><br>PEP 8 conventions are a good intermediate/advanced skill. The earlier you learn them, the better.
+No mention of RegExr?
+A word of advice for everyone: Just dont learn the Module and dont learn just the syntax. For example i was learning collection module and what it does well guess what i forgot it now because i did not use to perform something. But i do remember Pygame and Regex because i really used them to make something. So after learning do projects that uses these modules.
+I’m 3 years into being a Dev and to this day I have to read and learn new things about python.
+okay tim, this might sound weird, but i happen to know almost all the advanced concepts you talked about, but i didnt know some of the intermediate ones. just me?
+Gold video, it was extremly helpful, thanks. It was like a Corey Schafer video.
+One thing is missing that&#39;s REALLY important.<br><br>EVERY PYTHON DEVELOP HAS TO LEARN DOCSTRINGS.
+Thanks bro., I&#39;ll share this into my engineering group of my college 🙂
+You know he&#39;s Canadian by just how nice he is. Thousands of free resources for us poor college students who want to improve. Love it.
+I was searching for this! Thank you soooo much!
+500 th comment 🙃🙃
+I don&#39;t really comments much on YouTube. But this would be a game changer for me. Thank you so much for putting this together. If I were ever able to reach that expert or master level following this guideline, I will come back to this comment section &amp; give you all an update - &quot;this is what changed my life&quot;.
+I&#39;d add recursion into intermediate-expert skills, it is really hard to understand the concept that in recursion, the last operation become the first one and the first one become the last one
+Good video
+*Talks about beginner skills<br>Me: Ah this is easy<br>*Talks about intermediate skills<br>Me: Kinda hard but I think I got it<br>*Talks about anything above that<br>Me: What
+<a href="https://www.youtube.com/channel/UCe-PE6CVFb8QBRSS5HheNiw">https://www.youtube.com/channel/UCe-PE6CVFb8QBRSS5HheNiw</a>
+Great video, I guess I am in advance level. Thanks
+I&#39;m in the advanced level?..... Huh... That&#39;s both comforting and scary because I don&#39;t feel advanced.
+I watched this and i realize i knew most of it. I leared python more in a brute force way......   I started with trying to control some very very expensive cameras from univerity which had an python libary.... Then i made a GUI to do the different stuff the python libary allowed (Qt)..... At this point i worked with building my own REST, a websocket server and Clint, parallell computing . <br>The images where later used for training a ml (still in the UI) which dataset which was create through the UI and visulized and analyed there to.<br><br>I straight up and asked the professor to do a projekt in python (only code matlab before). And i got this task and worked on it for over a year and i leared so much. <br>This experience also gave me a job the day after i finished my degree as employers were amazed how much technoliges i leared and used (given that im a industrial not computer guy)<br><br>I had to have a meeting every 2 week to show what i have done and to get guidens for next two weeks while i did the projekt<br><br>Now my advice for you, get a mentor. I assume it shoudnt be hard for students
+Very nice advice! The only thing I would emphasize is that at all stages of the python programmer&#39;s journey, even from the beginner and intermediate level onward its good to be programming small and medium size projects with python,  and possibly learn to write unit tests even as intermediate. Good project ideas for python could be things like small games like hangman, tictactoe, battleship sinking game (where you guess and try to sink the enemy ships), minesweeper, snake etc. Also for database integration it can be fun to make a text-adventure game in python and use sql database for saving the game.(or a file)
+Thanks
+Hope hardcore dislikers undislike next time they drop in here. And from a liker, may be some additional random likes in other vids as well viewed or not for the effort given to put things like these. 👍
+yo tim has been working out
+if web_dev in career_goals:<br>    intermediate.append(Django)<br>else:<br>    intermediate.append(Flask)
+1st start answering questions from stack overflow
+At what point in your curriculum do you recommend doing basic projects ?
+I really liked this video.<br>I&#39;m supposedly at &#39;expert&#39; level(more intermediate in reality though), but i feel its hard to narrow down the specialization(expertise), especially for a job.<br>I find it hard to find (out) projects that i can create and proudly show off on my gh.
+U r a great mentor bro i wish i could meet you in person someday and learn more about your thought process 😍
+God level: stack overflow
+It is a very gentle explanation about any areas of python that you may already know or you want to know and also It&#39;s very good list /roadmap to learn Python From Beginner to Advanced and further! Fantastic!
+Thanks for telling me what Kwargs are in one second
+:) The fact that I know 95% of everything you describe in this video gives me confidence that I don&#39;t need to spend 4 years in a University when I can just focus on the other 5% and apply for an internship.
+Liked the video. Guess I am in advanced level now having to learn some more. But I already knew where to use my skills for master class. :) nice video getting me know where I stand.
+Canadian, eh?
+Great list. Thank you 👍
+When I practiced Threading with you, I thought Man Threading is complext. You great Tim!!
+Man, you really are amazing!
+Wow, what a great video syllabus. Its a shame it is unclear how to proceed.
+I have pinned this video on my browser so i do not forget to practice the terms daily. Thankyou Tim for motivating me.
+Any suggestion for projects to do after completing each stage like what can I do to see how good my beginner skills are etc please help
+I used to code with Python and JavaScript 2 years ago but kinda left it because I felt frustrated. But I decided to code again this year and decided .<br>Thank you for making this video. Now I know my level and what I should do
+so very helpful. thank you
+You forgot anti social skills
+Does the full course covers up everything under those beginner,intermediate and expert python separate playlists? Or there are some not included?
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=13m11s">13:11</a> oof.... Where it hurts man...
+Tim I really like ur videos but the first videos which was python tutorial can u do them but in the new version?
+When you say &quot;immutable vs mutable&quot; at <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=3m30s">3:30</a> you&#39;re actually talking about passing by reference vs by value.<br>Anywho, great video. This is just what I needed to pick up python quickly as an nth lang. 💙
+Search &#39;solo learn&#39; app in play store. The best teaching app, better than any class, just download and thank me later.
+Thank you for doing this, been looking for a thorough &quot;road map&quot; for a while. I feel so lost when self learning sometimes, and this is infinitely useful to help with that. &lt;3
+69 dislikes. Nice.
+Awesome, any similarities to Java?
+Great video. I alway wonder how much do I actually know and what should I learn next, this clears things up
+Hi Tim! What about learning a framework for python??
+1000 likes,
+Hey Tim I have been watching a few of your videos over the past few days as I started learning python and I just wanna thank you so much for what you do. You are honestly the best and your videos are so awesome and you make it really easy to learn everything keep doing you do Tim.
+This is really useful for me👍👍👍👍👍👍👍👍👍👍👍😻
+Love you man 😍
+Now this is a very useful video, Thank you Tim
+Tim, can you please make a Pyglet Tutorial?
+Thank you, I learned how better to improve myself.
+Great Video! I just started my own channel about my journey as Software Developer. Please be sure to check it out!
+Do i need a awesome computer to be a master, my dad doesnt want to spend $4000 on it
+In his discord server in the challenge section i dont even understand what they say
+Basic  = [Variables, Conditions, Chained Conditionals, Operators, Control Flow, Loops and Iterables, Basic Data Structure, Functions, Mutable vs. Immutable, Common Methods, File IO] <br>Intermediate = [Comprehensions, Lambda, Collections Module, Map and Filter, *args and **kwargs, Inheritance, Advanced Class, Behaviour, PIP, Environments, Module Creation]<br>Advanced = [Decorators, Generators, Context Managers, Metaclasses, Concurrency, Parallelism, Testing, Packages, Cython]<br>Expert/Master = [Ask yourself - where are you using these skills? You must understand the low-level concepts of Python, such as the global interpreter itself. You must understand the building blocks of Python and play with them as if they were sand, manipulating them with ease and shaping them however you see fit]
+This video is really great, I was not really able to find this information on &quot;Learn Python Fast!&quot; Websites after +1 year of programming in python and you just listed all of the things I wanted to know. Thanks!
+Thanks Tim. This is just what I&#39;ve been looking for.
+Is there any way to run python from batch file ? (With or without installing python silently)
+is it possible to build whatsapp just with flutter????or what else needed
+I&#39;m new to all of this, but I really hope that this all makes perfect sense to me in a year or so
+this makes me feel like im getting somewhere, and points me where i need to learn thank you
+Dislikes are those who can&#39;t find any semi-colon.
+Thank you, Tim. Now I can set a new goal in my coding journey.
+This helped me patch some holes that were preventing me from advancing on
+Cython is more than just a module (and I would argue that it is produced differently)
+Tim is great. His discord, however, is toxic AF.
+Are you really a master in python? i mean u are good but master?? bit pretentious<br>.. love ur teaching :)
+The level should be<br><br>Warrior<br>Elite<br>Master<br>Grand Master<br>Epic<br>Legend<br>Mythic<br>Glorious mythic
+I just want to add that learning iterators / generators first will be really helpful for understanding asynchronous programming.
+Basic = Trainee <br>Intermediate = Junior<br>Advanced = Middle <br>Expert = Senior Developer or an Architect
+People who are disliking this video are from Flat Earth!
+is i5 1036g1 enough for programming (university student)?
+Hello Tim, I found one little typo:<br><br><a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=11m12s">11:12</a> You opened file as read only and then try to write to that file<br>    &#39;with open(.. ,&quot;r&quot;) and then f.write()&#39;
+Great advice. I&#39;d only add external libraries (Numpy, Pandas, etc) at the intermediate level depending on what you need.
+Tim is amazing, I enjoy his work
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=4m44s">4:44</a> Intermediate sKiLls
+Please make a video on how we can start a channel like u and earn cash thro coding
+SMASHING the LIKE Button!!!!!
+The ultimate IMHO: Creating a neural network that improves the performance of Python itself. Then run it on itself for as long as wanted. This probably won&#39;t work or requires enormous processing power but imagine taking trillons of lines of bytecode and x86 assembly train it on a network so that the AI can generate efficient machine code out of Python bytecode.
+Python is like a naked programming language as it has no syntax lol
+wonderful video! strong
+this guy is a legend i always wanted this type of vid.<br>thanks bud
+python is a dumb programming language. Dislike
+Thanks, It is very helpful!
+I dont know if any noticed but tims face seems to be changed
+Great video
+Hi everyone!, I don&#39;t know if someone can help me out, I was watching this latest video and at my school, I&#39;ve been requested to do something related to the natural environment and I thought why don&#39;t I make something with python. I&#39;m still in the process of intermediate and developing my skills. My project idea was to make a simulation that specifies a specific ecology system, with a number of animals and the food that they need to survive. The simulation will give data and analyze it in order to let me know the actual influence of one specie over the others. What I mean, is a simulation that will suppose interaction between them and their food amount and see which die, reproduce, etc.
+Stupid title. Nobody is gonna master anything using some basic website with a course you get nowhere but Python 101 (minus 1) with. You search for 1000 jobs and find one, then you can start learning. You most likely never will be a master because the next coding language will come before that. Also, the hand gestures piss me off for some reason. They don&#39;t match what you&#39;re saying and it makes me lose my focus. Hand gestures are supposed to lead the listener, not confuse them.
+I&#39;m currently building a developer curriculum for myself and this really put a lot in to perspective. Thanks.
+I am in somewhere between beginner and advanced
+What about functional programming, exception handling..?
+I just came across your channel and I am LOVING IT!!!! Thank you so much for these videos. They are very clear and straight to the point, as everything should be!
+Can u make a video of full tutorial of these topic pls🙏
+Somebody: You can&#39;&#39;t multiply strings<br>Le me: Print(&quot;Python goes b&quot;+&quot;r&quot;*10)
+finally mastered my hello world program
+I&#39;ve not come across any such perfect guide anywhere ...  The perfect guide for anyone who would wish to get into python programming or someone who is stuck and don&#39;t know the way forward. Or if you feel like you&#39;ve done everything in python, it serves as a perfect guide. I could never thank you enough, Tim... But thanks a lot.
+I started learning Python a year ago and I considered myself as an intermediate Python programmer but it turns out I am an advanced Python programmer. Thanks Tim for teaching me Python during my first year.
+Great video to give people at all levels an idea of what there is to know about Python without getting very deep into anything!
+Hello Tim I have a doubt, like in c++ we have library like stl which is accepted for almost  every company  coding interview as they allow us to use them , do we have something like that in python too , or for example if I have to implement and min heap or max heap then I need to implement code manually?
+Wow, this video really helped me to guide me through what I should learn in Python. Thanks.
+didnt know im a master....
+This video is very helpful for me. Thanks a lot! 🤗❤️
+This guy is flexing so hard at this point 😂<br>But he&#39;s a programming language expert so I guess he gets a pass?
+Thank you for this, I will look back at this video every month to compare my progress and journey.
+This is a super great video. I consider myself an intermediate coder and learned a ton from this. <br><br>I will say, there&#39;s a <b>ton</b> you can do with just the beginner/intermediate stuff. The advanced stuff is great and I think you&#39;ll eventually hit some walls if you don&#39;t get there, but most of the stuff I code is built on a lot of the beginner/advanced stuff in this video. I would definitely try to master a lot of the stuff in the advanced/expert stuff because it can&#39;t hurt, but don&#39;t feel pressured like you can&#39;t build anything useful or cool or get a job with just the skills in the beginner/intermediate section.
+Great overview! I&#39;m starting at Python and this video helped me a lot! Thanks 💖✌💪
+Tim have you got a new mic?
+Tim is goated
+Thank you for putting this one together Tim.
+Nice
+In my opinion, decorators should be placed in intermediate section cause its really pretty useful stuff and every Python programmer should be aware of it.
+Hi Tim, I Like all your videos and based on your curriculum I&#39;m above intermediate level.which book do you recommend so I can proceed to Advanced level (I like studying from books)
+thank you bro that was very helpful
+Please what are the best computer applications to coding with python
+I guess he made this video to check out time stamps in youtube
+You spend so much time on screen. Do you have any glasses or any else thing for your eyes. I am facing a lot of problem due to this . Love your videos. Thx
+I work with microcontrollers and power systems -- yet I&#39;m only an intermediate programmer.<br><br>I&#39;ve learned out of desperation and necessity, but come to really appreciate it&#39;s power to automate and control systems.<br><br>Thanks for insight.
+Dont use chrome use Firefox!!!
+The video is great
+currently studying mechatronics engineer...coming from a mechanical background...learning programming languages in-depth is challenging, but slowly reaching there.........the video did help me to build a roadmap. ....great video Tim
+I agree lambda expressions are very helpful just like you showed, but you&#39;re not allowed to set a variable to lambda expression according to PEP8 (You have to use def). It probably makes the code too readable for Pythonians.
+Level 5 : Create Python from Scratch.
+Wow times have changed, when I learned of the legendary &quot;How to be a hacker&quot; by Eric S Raymond, it says it&#39;ll take you years to master programming.<br><br>Then boot camps came and make you a master in 6 months.<br><br>Now on a 16 mins YouTube video.<br><br>/s
+Go Beyond + ULTRA
+I am a big fan from India.
+I learn Python by myself with youtube videos.<br>I&#39;ve playlist called PYTHON LEARNING. It has most of your videos.
+I&#39;m pretty sure pip is Packages in Python if anyone is interested
+I love it! Thanks Tim
+Hey I guess I had already became advanced in python and I didn&#39;t even knew that, Btw plz can anyone tell me that making a flappy bird game(not completely by myself but I completely understood the code) using python comes in which category
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=2m38s">2:38</a> 😂😂😂😂
+May be learn spark and apache beam framework after reaching intermediate level. Also you have to learn data structures and algo since you will mostly get challenges from hackerrank as part of your selection process
+Do we really have to worry about multithreading and concurrency if we use airflow ?
+Quality is over 9000.
+Hey Tim,<br><br>Could you please list 10 projects of increasing difficulty for a beginner to practice along with, ideally available here on YouTube or some in some book(s) or any other resource
+Tim I need to know are you the guy from the &quot;A couple of bestiess&quot; pic online?
+Thank you for setting my goals to become a python programmer! I really owe you one!
+This helped a lot. My biggest problem learning python has always been not knowing what to do next. Thanks!
+It was cool to find out my level after a couple months of self learning
+Would love this for other languages too!
+#1 Skill to learn: How to look up things effectively and understand the doc of whatever API you decided to torture yourself with.
+Aboot just comes out automatically, doesn&#39;t it😋. Big fan Tim, keep &#39;em coming..
+You can decorate classes aswell 💯😎
+1. You need a python<br>2. Master bait it<br>3. You&#39;re now a python master
+Strangely I know almost all of the topics but how come it doesn&#39;t feel that I am at master level xD <br>Is it because I don&#39;t know how to apply them
+You know youre an expert in Python when you find yourself writing an off-broadway musical comedy in Python in the shower.
+Respect for this person. Thanks Tim! You and Corey are the best Python instructors I&#39;ve seen here on YT. Keep it up!
+Thanks Tim. As always, good job. I have not read all the comments so forgive if someone else brought it up. But virtual environments would be good to add to your list. Thanks again and keep up the good work!
+I recommend these videos 💯 percent. I have the highest regard for you as a person and pythonista. Keep doing what you do, man. Well done.
+I just used comprehension today while writing a function and before watching this video, I didn&#39;t even know it was called comprehension. Cool!
+CLEM!!!
+I need something like this for js as well
+Tim&#39;s the Man! THAAANK you! I always love those overviews! Kind of like a map, giving you an idea of what&#39;s out there!
+Hey Tim, looks like you missed to categorized Exception in Python
+What is the difference between the free python courses you have on YouTube and the paid fundamentals of programming with python course you offer on your website?
+Missing the  walrus operator  :=
+This video really put my learning process in order . Now I know my level and what to focus about
+Very helpful video! Continue the good job! You inspired me a lot, thank you!
+Can you do the same for Flutter please ?
+Great overview of skills. <br>It&#39;s always subjective what are basic, intermediate, advanced and expert skills but I really like the segmentation here. Thanks for sharing :-)
+sooo good......
+I would also suggest learning descriptors. It is a very very useful thing to know.
+This kid is the jesus christ of youtube! He&#39;s teaching us all of this for free, and he&#39;s very young! You will go to very high places bro! Keep up the great work.
+Tim ur the best mentor <br>Thanks for guidance<br>❤️❤️ From India
+I was ok when he finished basic....intermediate was ok too.....advanced O_O........I&#39;m a expert/master level.... wow...
+tfw you know some advanced and intermediate stuff but are still in the beginner level.😑
+Can you pls make a tutorial about encrypting?
+thanks for the explanation dr sheldon cooper :P
+Hi Tim,<br>I am doing Automation scripting and want to shift to Developer profile. What would be the best possible way to make this happen?
+Thanks Tim, because of you, i am able to learn python effectively and also upload some speed code videos on my channel!<br>Thank you!
+I&#39;ve been coding for something over 2 months now and I just realized that I know about the Basics and Intermediate sections of this video and even some Expert concepts...Well,I just got a feeling that I know at least a little bit of the vast world of coding and what I need to learn in order to get better.Thanks for the video Tim!I&#39;m a 15 y/o teaching myself online and your videos are a great help!
+I know and use everything in intermediate and some expert level  but wouldn&#39;t consider myself at that level because of my age I&#39;m currently 17 started python when i was maybe 14 or 15
+All these years I was so confused how to  learn python. I buy so many book but still confused. Were to start. Thank you u .u save me a lot of time now I know  what to do.
+If You Wanna Learn Python Watch Tech With Tim Python Series Or (Caleb Curry&#39;s Python Series Or All In One Video That I Recommend )
+Great timing and super clear thankyou. I had just got to a point where I had lost direction in my learning. <br><br>Keep up the good work
+if you told me about creativity i will mention Tim.<br>Thank you Tim for your Time and your efforts
+I love you broo . you are an inspiration for me. just, thanks alotttt. I am really feeling so happy when i saw this video. love you brother
+Please make video on cython and async IO I think just these two topics are missing on your channel...<br>Please 🙏🙏
+Thanks very much for the English subtitles. It helps my learning journey easier. Subscribed.
+ayo u got a new camera 😳😳 looks better than real life
+This is the one of the greastest videos I&#39;ve ever found about explaining python learning steps.
+This was the exact video I was looking for. Thank you.
+Excellent,  I would add Logging and Debugging as skills for Intermediate or Advanced.
+Hey we are waiting for the your jetson nano playlist!
+Oh wow, I didn&#39;t realize I knew about most of these. I guess this is what happens when you use language for 10+ years. I would also recommend people to always refer to official documentation and coding practices. <a href="http://devdocs.io/">devdocs.io</a> will be your friend. Also, if you wanna be master in Python learn C and CPP as well. It will help you understand why python does the things way it does.
+Can i learn pip or making my own module just using online ide like repl?? I cant download anything because im using my mom&#39;s crappy laptop 😂
+what is the IDE?<br>you are using please tell
+Great video, actually engourages me to keep learning. Glad to know you dont need to know everything to be considered or get a job as developer. I always feel like i dont know enough, but maybe that is fine.
+🤩VERY GOOD VIDEO SIR!, THANKSSSS
+I think I am in the middle of intermediate and advanced
+Thankz :)
+hey can you make a tutorial that goes deep into networking. I can&#39;t really understand other sites but when i saw your lsat sockets tutorial i was able to learn it really well. So i was hoping if you could do your next series on networking and the theory behind it.
+I would really put testing under intermediate. If you want to get into any professional setting you will be writing tests. A lot of interns I&#39;ve seen start with increasing test coverage as a way to get familiar with a section of code. If you are going through an interview it&#39;s not uncommon to be asked about what test cases you would write for your whiteboard exercises. Great content, keep it coming!
+Thankyou tech with Tim, Now i have a  map in my head to navigate in python world. <br>Please create same content but in Java.
+does color of name of the topic matters in the importance of it?
+Hello everybody! I just followed Tim&#39;s pygame tutorial (the one with the goblins), finished it and tried to modify it a bit. <br>I managed to set up a timer, which spawns goblins after a specific period of time. But the problem is: When a bullet hits multiple hitboxes it just crashes and i get the following error message:<br>ValueError: &lt;__main__.projectile object at 0x0000016DF39469D0&gt; is not in list<br>Can someone help me please? I have literally no clue how to solve nor what this means, thanks.
+I’m pretty sure PIP actually stands for ‘Pip Installs Packages’
+This is the First Time  TechWithTim Video I Liked
+10Q Tim for your effort and time you put into teaching us. For some of us, the impact on our lives, you generate is so great that words can&#39;t even describe. Thank you again.
+man, you are the best!!!<br>thanks
+Tim in the thumbnail looks like: &quot;Yeah bitch.. you gotta learn these things&quot; 😂😂😂
+I lot of people watching your videos are kids or beginners who are just starting. I need to clarify something here, mastering a language cannot be done. There&#39;s always be new frameworks and new improvements that&#39;ll keep on coming and you&#39;ll have to learn it if you use it. Also just learning the syntax or the language itself is not beneficial or anything to be proud of. All software engineer&#39;s do is solve problems, be it in any language. You need to work for that, make yourself good at problem solving so when new thing pop up or you wanna learn a new language then you can easily without stucking or memorizing the syntax. Tim&#39;s video is very good but from the premature comments I think this clarification was needed
+bro thank you
+Hello, nice video.<br>I think you should mention profiling to help and debug!
+Thank you so much. At first I was discouraged when your intermediate list kept going on and on and on..... I have 2 cousins at Google (software engineers)... One of them was my role model until he left the shores of Nigeria to start his new life at Google in the UK. Ever since then, I have had no role model... I have had to learn from the little memories I had of him coding to get myself to the Object Oriented Programming stage....<br><br>I have to say that you are in many ways my role model. Here in Nigeria, Python isn&#39;t seen as a very cool language. Maybe Java or C++ or JavaScript. However, you are a big YouTuber and you are making the python community very proud (including me).... Thank you so much.... I am irrevocably grateful!
+most important video for pythonist to get beyond your current skills .
+Cool 🔥🔥🔥 I&#39;m going to explore your channel now and I need to follow your video series for Python .. <br>Thanks Man .. appreciate it 🔥
+List comprehension is probably the biggest strength of Python.  Learn it.  Love it.  Use it.
+I think generators/iterators, comprehensions, context managers and decorators are the things that make python so great and more expressive than most other languages. So I&#39;d recommend everyone to learn and use these things.<br><br>Also since you mentioned the collections module, here are a few more modules from the standard lib that I would include in the list for advanced python programmers: sys, os, pathlib, dataclasses, itertools, contextlib, functools.<br>The first three are obvious. But I think the last four are underused and really awesome!
+Tim, please make a video about Cyphon
+Tbh Im just watching the video to keep myself from doing the stuff in the video
+I agree with most of your list, but you got things mixed up about cython. Cython is an entirely different language than C! It&#39;s synthax is basically a superset of python, so you can write python and compile it using a cython compiler, but cython also lets you declare types and speed up critical sections by doing so. It also enables you to overcome the GIL. It&#39;s whole purpose is to write compiled modules that perform pretty much like they were written in C but do that using a python like synthax and have an easier way to expose functions from these modules to python. So it is definitely not about writing modules in C... quite the opposite ;-)
+Super cool video! Lambda is so usefull! Thanks
+it was worth to subscribe your channel.
+I love you. Seriously this is the best video I have ever seen about experience levels in python.
+You&#39;re doing a great work man. I absolutely admire you and your channel in general. I&#39;ve been really focusing on programming (which I have been putting off for the past year) after watching your videos. Thank you man!
+hey ma I just discovered you channel and am new to programming and I love your stuff and am learning a lot and I voted for you in the poll
+Bro thank you. You just giving me a great idea of python
+Can you please make a series on data structures and algorithms in Python ?!
+Before this video I thought I was a totally newbie, found out I know most of the stuff in the intermediate level
+Hi there Tim! big time follower of your channel here, i would love to know what level do you consider yourself to be at, based on your current skills, keep up the great work!
+Same vid for js plz &#39;-&#39;
+angry HTML coders disliking the video. This is massively helpful to let me know where I stand. I was doing class functions and thought I was pretty good. but some beginner concepts were not clear to me. I need to brush up on my skills more. thanks, Tim.  You&#39;ve been very helpful throughout the journey.  Waiting for more amazing videos! Shoot us with a day of life of Tim. We&#39;d definitely like to know you better.
+Thank you tim for all the amazing free resources you provide to broke students like me i can certainly say you have helped me become a significantly better programmer
+This is amazing Tim! Thank you and God bless your heart!
+Python is like just sit there iam gona do everything  ,that&#39;s why dont like python
+Where are the GUI interfaces?
+Good video, thanks a lot.
+Omg Tim. U got 7000+ in 1hour
+could you please make a tutorial about async functions? THX
+guys tim forgot the master grandmaster extreme master level, it only has 1 requirement <b>print(“Hello World!”)</b> most dangerous line of code ever
+Thanks man, Now I know what I don&#39;t know.
+That was exactly what I needed.<br>I was learning python in bits and pieces.<br>I missed File I/O from basics.<br>I missed behaviour,environment, Async I/O from intermediate.<br>I only learned decorators and metaclasses from advanced.<br>And I learned pandas, numpy, and a bit of TenserFlow from Master.<br>I was going in a haphazard manner and I didn&#39;t know what I didn&#39;t know.
+I just wish one day I&#39;ll be able to meet you in person and thank you for the difference you have made in our lives as a tech enthusiast.<br>You are my role model dude. ❤️
+Hey tim can you make an api in python for kivy app please?
+Ur friend from Egypt.
+Ur videos keep growing amazingly, keep the good work .
+Thanks a Lot, Youre Pretty Good at guiding,, I thank you with all my heart
+Just 7 hour ago I&#39;ve started learning python and this is what I&#39;m looking for....Thanks Bro 😍
+<a href="https://youtu.be/lTCL7kh8g5E">https://youtu.be/lTCL7kh8g5E</a><br>Styling
+I am so close tobe a intermediate python developer. I hope I can learn those things with your help
+Like always ☝️ great, clean and superb video ✌️ thank you for your job 🥳
+When you become expert you create your own operating system own ai assistant own google, and start sturtup make billions!<br><br>    (last part is hard est but I think If you are in that level you pretty much know how to become the best in a some areas of programming and enterpreneurship)
+Hi Tim, please make video about mastering data structures and algorithms
+Does this guy ever smile lol
+Shall I focus on studying or just focus on computer science
+Best mentor
+please make a full course about flask socketio and like connecting it with websocket in js for them to communicate.
+You can learn ALL these topics (in pretty much the order presented) if you read &quot;Learning Python&quot; by Mark Lutz and then &quot;Fluent Python&quot; by Luciano Ramalho.
+Who are from Bangladesh ???
+Best blueprint I have ever come across.<br>Thanks for this video.
+I&#39;m in love with python and i wanna master it fr
+Hey Tim. My college starts this 31st August, computer science major. You and your videos have helped me gain so much of knowledge about python. I could create my own game at this age, I could think and code by myself, I could do super cool tricks with this, and so many more things. Now I am even following your flutter tutorial series. And I&#39;m sure all this effort will pay off soon! Thanks to you brother! Love from India ❤️
+I like your simple way of explaining, thank you so much for your videos 😁
+Hi <br>Could I know the editor&#39;s name, in the video?<br>Thanks
+Thanks tim.<br>I am an experienced EXPERT in PYTHON. <br>Thanks for the valid confirmation.<br><a href="http://www.youtube.com/results?search_query=%23peace">#PEACE</a> 💕💕💕💥💥💥🔥🔥✌️✌️✌️
+wow , that was really what i was searching for
+Can you or do you have one of these for software engineering in general that breaks down need to know concepts for mastery
+From my own understanding, you can port embedded systems code into python with the help of Cython. <br>That&#39;s nice tho
+Great video Tim.
+Cthyon is the ULTIMATE 🔥🔥🔥🔥🔥🔥💕💕💕💕💕💕🚀🚀🚀🚀🚀✌️✌️✌️✌️
+Threading is quite advanced tho
+Thanks  for your valuable  info really  very helpful.
+Tim..Can you please make a video explaining different data structures and essential algorithms??..🙏
+yield 💥💥💥💥💥💥🚀🚀🚀🔥🔥🔥 for the generators <br>Thanks TIM 👍😊
+Such a good video to see as a beginner 🔥
+this is what we need also, Thanks alot!!!!
+This video&#39;s caption is pretty weird.<br>Like <a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=14m42s">14:42</a> &quot; breast API &quot; .<br>As always very good video .
+Pls make a similar video on c programming
+What level would someone need to be to learn frameworks such as Django and Flask?
+Hey Tim. This was a great video but one thing which I feel was missing is the cool python libraries like Instaloader, Discord, Binod(this is related to Indian meme, ignore it xd) etc. <br>Basically apart from popular libraries like tensorflow but some &quot;hidden&quot; libraries... <br>Thanks for making such videos
+Great Video<br>Can you make a video course on Vuejs or Reactjs
+Python is easy tho.<br>compared to other languages
+<a href="https://www.youtube.com/watch?v=p15xzjzR9j0&amp;t=14m30s">14:30</a> did you just say ethical hacking..Well i m doing preparation for oscp and i know python very well but i did&#39;nt know that master level skills are required for ethical hacking......
+Really want I wanted ✌🏼
+Very helpful! Found myself between beginner and intermediate.
+I think the most important thing is also learning how to build different projects and know when and when not to use these different levels of python
+This is the video I was finding on youtube
+Great video as always Tim!
+Start a high paying tech career making $60k+/year with NO DEBT: <a href="https://coursecareers.com/a/techwithtim">https://coursecareers.com/a/techwithtim</a>
+Guys join tech with Tim discord that&#39;s a very fun place to interact we can talk there🙂 it&#39;s very friendly place
+Thanks Tim,I needed this
+Dude i luv ur channel
+How come people dislike this video when this man is calmly just helping you a lot with his experience...ppl today
+Great video!<br>Please mention the resources to advance through all these levels!
+I think testing should&#39;ve been in intermediate.
+genius
+I was literally thinking about this and then Tim posts this video. Great work!
+Are u sponsored by AlgoExpert?
+Hi Tim, please make a video on Cython 🙏
+this channel is a gold mine!
+thanks a lot time ur the best <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>lol i cant believe im one of the first thousand, i remember a time when it took 2 days to get to a thousand views, u have really come a long way tim! keep up the awesome efforts!
+Im pretty early and dont know what to comment so.......<br><br><br><b>READ MORE</b>
+Python Installed Packages
+Great Content
+I love your videos because they covers hotspots in the programming world(Python).....I&#39;m 15 and I want to be as good as you by 16😀
+I watched this video with less then 1K views 🙌
+Hi tim kindly make a similar video for JavaScript
+Tim, what do you use to make those thumbnails?
+I don&#39;t usually comment , but I must say , i&#39;ve never seen such clean and clear tutorials , soon 400K ,deserve 1 mil at least
+Tim I love you so much and i wish you reply
+great channel
+I am 13 and he inspired me
+Hi!
+Nice Video... I have always loved watching your videos :)
+Tim is one of the best and i wish to be like him
+best ever .. thank you Tim❤️❤️
+Hello  everyone who is new to programming.
+Hey Tim, Will you make a series teaching how to make <a href="http://agar.io/">agar.io</a> or <a href="http://paper.io/">paper.io</a> or <a href="http://diep.io/">diep.io</a> or any fps game in Python Day - 9. Like so he can see
+8th
+My TIM &lt;3
+I need pay tuition to this guy. He’s been my college 🤣🤣
+7th
+Sexto
+Great video as always
+😂😂
+First
+Hello
+No I am first
+.
+FIRST
