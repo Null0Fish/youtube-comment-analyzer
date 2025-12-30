@@ -1,4 +1,4 @@
-# YouTube Comment Analyzer
+# YouTube-Comment-Analyzer
 
 This project was a personal project that I did for fun during high school with the goal of gaining empirical experience with professional-grade tools and cloud computing. I  created a Python project that would perform analysis on YouTube comments using some of the predictive AI tools present in GoogleCloud. My rough, initial goal was to create a program that could take a given YouTube video ID and then estimate how people felt about the video based upon the comments.
 
